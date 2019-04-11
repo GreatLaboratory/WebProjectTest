@@ -1,0 +1,4 @@
+{
+    "name" : "crong"
+    "fruits" : ["apple", "orange"]
+}
