@@ -17,7 +17,7 @@
 두번째 수 : <%= num2 %> <br>
 두 수의 합 : <%= result %> <br>
 
-EL표기법
+<!-- EL표기법 -->
 ${num1 } + ${num2 } = ${result }
 </body>
 </html>
